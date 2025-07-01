@@ -11,7 +11,7 @@ This backend reads from and writes to a `customImages.json` file, allowing you t
 > Deployed on Railway (example):
 
 ```
-https://hinaflix-api.up.railway.app/custom-images
+https://capable-bravery-production-1fda.up.railway.app/custom-images
 ```
 
 ---
@@ -81,7 +81,7 @@ node server.js
 ```
 
 Open in browser:  
-→ [http://localhost:4000/custom-images](http://localhost:4000/custom-images)
+→ [http://localhost:4000/custom-images](http://localhost:8080/custom-images)
 
 ---
 
